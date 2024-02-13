@@ -16,7 +16,7 @@ O projeto desenvolvido para fins de portfólio pessoal, seguindo as orientaçõe
 
 ## Explorando as Funcionalidades do Copilot e da OpenAI by MADS 1974
 
-A inteligência artificial (IA) vem revolucionando diversas áreas, e a combinação do Copilot da GitHub com a tecnologia da OpenAI é um exemplo impressionante de como a IA pode impulsionar a criatividade e a eficiência em diferentes domínios, desde a geração de conteúdo criativo até a assistência na escrita de código. Neste artigo, vamos explorar as funcionalidades dessas poderosas ferramentas e como elas podem ser utilizadas de forma prática e inovadora.
+A inteligência artificial (IA) vem revolucionando diversas áreas, e a combinação do Copilot, tecnologia da meta em parceria com a OpenAI é um exemplo impressionante de como a IA pode impulsionar a criatividade e a eficiência em diferentes domínios, desde a geração de conteúdo criativo até a assistência na escrita de código. Neste artigo, vamos explorar as funcionalidades dessas poderosas ferramentas e como elas podem ser utilizadas de forma prática e inovadora.
 
 ## Geração de Conteúdo Criativo
 
