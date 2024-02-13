@@ -31,13 +31,13 @@ Essas funcionalidades não apenas auxiliam na criação de conteúdo, mas també
 
 ### Exemplos de Utilização da Ferramenta
 
-![Script](input/entrada1.png)
+![Script](./recursos-de-ia-generativa-com-copilot-e-openAI-%20mads1974/input/entrada1.png)
 
-![Resultado](output/saida1.jpeg)
+![Resultado](./recursos-de-ia-generativa-com-copilot-e-openAI-%20mads1974/output/saida1.jpeg)
 
-![Resultado](output/saida2.png)
+![Resultado](./recursos-de-ia-generativa-com-copilot-e-openAI-%20mads1974/output/saida2.png)
 
-![Resultado](output/saida3.jpg)
+![Resultado](./recursos-de-ia-generativa-com-copilot-e-openAI-%20mads1974/output/saida3.jpg)
 
 ## Assistência na Escrita de Código
 
