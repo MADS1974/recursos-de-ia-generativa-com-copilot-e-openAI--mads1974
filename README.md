@@ -31,13 +31,13 @@ Essas funcionalidades não apenas auxiliam na criação de conteúdo, mas també
 
 ### Exemplos de Utilização da Ferramenta
 
-![Script](input/input%201.png)
+![Script](input/entrada1.png)
 
-![Script](output/Olinda-Recife.jpeg)
+![Resultado](output/saida1.jpeg)
 
-![Resultado](output/output%201.png)
+![Resultado](output/saida2.png)
 
-![Resultado](output/output%201.jpg)
+![Resultado](output/saida3.jpg)
 
 ## Assistência na Escrita de Código
 
